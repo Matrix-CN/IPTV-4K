@@ -19,3 +19,5 @@ http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHANDONG-4K/G_SHANDONG-4K
 http://zv6.ott.mobaibox.com:6060/gitv/live1/G_GUANGDONG-4K/G_GUANGDONG-4K
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SHENZHEN-4K/G_SHENZHEN-4K
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
+http://zv6.ott.mobaibox.com:6060/gitv/live1/G_SICHUAN-4K/G_SICHUAN-4K
